@@ -179,6 +179,49 @@ Facilitates Agile processes and ensures the team adheres to Scrum principles.
 
 **Contribution:** Maintains team productivity and ensures Agile methodologies are effectively implemented.
 
+
+## UI Component Patterns
+
+To ensure a modular and maintainable codebase, the AirBnB Clone project will leverage reusable UI components. These components will streamline the development process, enhance consistency across the application, and make updates more efficient. Below are the core components planned for implementation:
+
+### **1. Navbar**  
+The Navbar serves as the primary navigation tool for the application, providing easy access to key sections.  
+**Key Features:**
+- Displays the application logo.
+- Includes links for navigating to the home page, property listings, and user account sections.
+- Provides a search bar for quick property searches.
+- Contains user authentication options such as login and signup buttons.
+
+---
+
+### **2. Property Card**  
+A Property Card is used to showcase individual property listings in a visually appealing and informative manner.  
+**Key Features:**
+- Displays an image of the property.
+- Shows essential details like property name, location, price, and rating.
+- Includes a "View Details" button to navigate to the listing detailed view.
+- Designed to be responsive for both desktop and mobile screens.
+
+---
+
+### **3. Footer**  
+The Footer provides supplementary navigation and information at the bottom of each page.  
+**Key Features:**
+- Includes links to key sections such as About, Contact, Privacy Policy, and Terms of Service.
+- Displays social media icons with links to respective platforms.
+- Contains copyright information and branding.
+- Optimized for a clean and minimalist design.
+
+---
+
+### **Why UI Component Patterns Are Important**
+1. **Reusability:** Components like the Navbar, Property Card, and Footer can be reused across multiple pages, saving development time.
+2. **Consistency:** Ensures a uniform look and feel throughout the application.
+3. **Maintainability:** Simplifies code management by isolating functionality within individual components.
+4. **Scalability:** Makes it easier to add new features or make updates without affecting the overall structure.
+
+By defining these UI components, we establish a solid foundation for building a clean, user-friendly interface for the AirBnB Clone project.
+
 ---
 
 ### **Why Defined Roles Matter**
