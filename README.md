@@ -36,3 +36,61 @@ A user-friendly design is crucial in a booking system as it directly impacts use
 
 Investing in UI/UX design ensures the application is not only functional but also enjoyable to use, driving its success in a competitive market.
 
+## UI/UX Design Planning
+
+### Design Goals
+The AirBnB Clone project aims to create an intuitive and visually appealing interface that enhances user experience. The design focuses on the following goals:
+- **Simplicity:** Ensure the interface is easy to navigate and understand, even for first-time users.
+- **Responsiveness:** Provide an optimal experience across devices, from desktops to smartphones.
+- **Aesthetic Appeal:** Maintain a modern, clean, and professional design that reflects the AirBnB brand.
+- **Efficiency:** Streamline user interactions, minimizing the steps required to complete a task.
+- **Accessibility:** Make the application accessible to all users, including those with disabilities.
+
+### Key Features to Implement
+- **Property Listings:** Display properties with key information like images, titles, prices, and short descriptions.
+- **Property Details:** Provide detailed information about each property, including amenities, location, and host information.
+- **Booking System:** Allow users to select properties, pick dates, specify guest numbers, and complete the booking process.
+- **Search Functionality:** Enable robust search options based on criteria such as location, price range, and availability.
+- **User Authentication:** Ensure secure login and registration functionality.
+- **Streamlined Navigation:** Provide clear and consistent navigation throughout the application.
+
+### Page Descriptions
+
+| **Page**               | **Description**                                                                                                                                                         | **UI Goals**                                                                                                   |
+|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| **Property Listing View** | Displays a grid or list of properties with images, titles, prices, and brief descriptions. Users can browse available options and click to see detailed information. | Clean layout with prominent filters and easy-to-read property cards for quick browsing.                        |
+| **Listing Detailed View** | Shows an in-depth view of a selected property, including images, detailed descriptions, amenities, location, and host information. Users can proceed to book from here. | Highlight key features and provide all necessary details clearly and concisely. Include a "Book Now" button.   |
+| **Simple Checkout View**  | Facilitates the booking process, including selecting dates, the number of guests, and payment details. The process is simplified for ease of use.                    | Minimalist design with clear instructions and step-by-step flow to guide users through the booking process.    |
+
+### Colors and Typography
+
+#### Color Styles
+- **Primary Color:** `#FF385C` (AirBnB Pink)
+- **Secondary Color:** `#222222` (Dark Gray for text)
+- **Background Color:** `#FFFFFF` (White for a clean look)
+- **Accent Color:** `#00A699` (Teal for buttons and highlights)
+- **Neutral Shades:** 
+  - Light Gray: `#F7F7F7` (Background sections)
+  - Medium Gray: `#E0E0E0` (Borders and dividers)
+
+#### Typography
+- **Font Family:** `Inter`, `sans-serif`
+- **Font Sizes:**
+  - Large Headers: `32px`
+  - Sub-Headers: `24px`
+  - Body Text: `16px`
+  - Small Text: `14px`
+- **Font Weights:**
+  - Light: `300`
+  - Regular: `400`
+  - Bold: `700`
+
+### Importance of Identifying Design Properties
+Understanding and documenting the design properties of a mockup is crucial for successful project implementation:
+- **Consistency:** Ensures uniform styling across the application, maintaining a professional and cohesive look.
+- **Efficiency:** Simplifies the development process by providing clear guidelines, reducing guesswork for developers.
+- **Accuracy:** Ensures the final product aligns with the original design vision, minimizing deviations.
+- **Collaboration:** Facilitates communication between designers and developers, ensuring smooth workflow and mutual understanding.
+- **Scalability:** Provides a foundation for future enhancements, making it easier to maintain and expand the application.
+
+By identifying and adhering to these design properties, the project can deliver a polished and user-friendly interface that meets user expectations.
