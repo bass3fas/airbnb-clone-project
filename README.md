@@ -41,25 +41,28 @@ Investing in UI/UX design ensures the application is not only functional but als
 ### Colors and Typography
 
 #### Color Styles
-- **Primary Color:** `#FF385C` (AirBnB Pink)
-- **Secondary Color:** `#222222` (Dark Gray for text)
+- **Primary Color:** `#34967C` (Green for Top header,buttons)
+- **Secondary Color:** `#222222` (Dark Gray for text, footer background)
+- **Secondary color:** `#FFA800` (Yellow for search button)
 - **Background Color:** `#FFFFFF` (White for a clean look)
-- **Accent Color:** `#00A699` (Teal for buttons and highlights)
+- **Accent Color:** `#F0FFFB` (Teal for buttons and highlights)
 - **Neutral Shades:** 
-  - Light Gray: `#F7F7F7` (Background sections)
-  - Medium Gray: `#E0E0E0` (Borders and dividers)
+  - Light Gray: `#E9E9E9` (Borders and dividers)
+  - Medium Gray: `#616161` (Lighter texts)
 
 #### Typography
-- **Font Family:** `Inter`, `sans-serif`
+
+- **Font Family:** `Source Sans Pro`, `Quicksand`
+
 - **Font Sizes:**
-  - Large Headers: `32px`
+  - Large Headers: `94px`
   - Sub-Headers: `24px`
-  - Body Text: `16px`
-  - Small Text: `14px`
+  - Body Text: `22px`
+  - Small Text: `12px` `13px` `14px`
 - **Font Weights:**
-  - Light: `300`
-  - Regular: `400`
-  - Bold: `700`
+  - Light: `400`
+  - Regular: `500`
+  - Bold: `600`
 
 ### Importance of Identifying Design Properties
 Understanding and documenting the design properties of a mockup is crucial for successful project implementation:
